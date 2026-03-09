@@ -11080,7 +11080,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "W25Q128JVS"
+		(property "Value" "W25Q16JVZPIQ TR"
 			(at 87.63 172.7199 0)
 			(effects
 				(font
@@ -11089,7 +11089,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
+		(property "Footprint" "Package_SON:Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm"
 			(at 76.2 148.59 0)
 			(effects
 				(font
